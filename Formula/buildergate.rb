@@ -6,8 +6,8 @@
 class Buildergate < Formula
   desc "Web workspace for running many terminal sessions and coding agents in parallel"
   homepage "https://github.com/Snoworca/BuilderGate"
-  url "https://github.com/Snoworca/BuilderGate/releases/download/v0.10.36/BuilderGate-macos-arm64-0.10.36.zip"
-  sha256 "5a1b5382514a24125c3d214d51762cf803dfcdd5ad2d805995bf5cbf6bb396d1"
+  url "https://github.com/Snoworca/BuilderGate/releases/download/v0.10.37/BuilderGate-macos-arm64-0.10.37.zip"
+  sha256 "7eff529dc2a914b5e90ced647d182cf595b2281df3c13014189a820e0563d7c7"
 
   depends_on arch: :arm64
   depends_on :macos
